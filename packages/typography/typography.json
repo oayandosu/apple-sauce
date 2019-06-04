@@ -1,0 +1,31 @@
+{
+  "fontSizes": [
+    "11px",
+    "12px",
+    "13px",
+    "14px",
+    "16px",
+    "18px",
+    "20px",
+    "24px",
+    "28px"
+  ],
+  "fonts": {
+    "mono": "'Roboto Mono', Monaco, 'Courier New', monospace",
+    "sansSerif": "'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+  },
+  "fontWeights": {
+    "thin": 100,
+    "light": 300,
+    "regular": 400,
+    "medium": 500,
+    "bold": 700
+  },
+  "letterSpacings": {
+    "ls100": "-1px",
+    "ls200": "-0.5px",
+    "ls300": 0,
+    "ls400": "0.5px",
+    "ls500": "1px"
+  }
+}

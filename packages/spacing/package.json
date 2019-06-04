@@ -1,0 +1,9 @@
+{
+  "name": "@oayandosu/apple-sauce-spacing",
+  "version": "1.0.0",
+  "main": "main.json",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

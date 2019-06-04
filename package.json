@@ -1,0 +1,16 @@
+{
+  "name": "@oayandosu/apple-sauce",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bolt": {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bolt": "^0.23.3"
+  }
+}

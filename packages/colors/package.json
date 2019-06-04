@@ -1,0 +1,9 @@
+{
+  "name": "@oayandosu/apple-sauce-colors",
+  "version": "1.0.1",
+  "main": "colors.json",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

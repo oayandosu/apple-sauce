@@ -1,0 +1,9 @@
+{
+  "name": "@oayandosu/apple-sauce-typography",
+  "version": "1.0.0",
+  "main": "typography.json",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
